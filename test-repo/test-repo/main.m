@@ -3,7 +3,7 @@
 //  test-repo
 //
 //  Created by Alexey Vinokurov on 7/30/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Say hello to Github
 //
 
 #import <Foundation/Foundation.h>
@@ -14,7 +14,7 @@ int main (int argc, const char * argv[])
     NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
 
     // insert code here...
-    NSLog(@"Hello, World!");
+    NSLog(@"This is a test repository.");
 
     [pool drain];
     return 0;
